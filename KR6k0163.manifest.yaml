@@ -1,0 +1,243 @@
+canonical_identifier: bkk:krp/KR6k0163/v1
+canonical_location: https://kanripo.org/bkk/KR6k0163/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律疏飾宗義記
+  identifiers:
+    alt_id:
+    - X42n0733
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X42/X42n0733.xml
+    old_id: X42n0733
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0163_000.yaml, hash: 'sha256:8645867bbe1dcc0e147f4698fd4c7a52fc04afd82667802cd31dbc0ff1b109f4'}
+  - {seq: 2, filename: KR6k0163_002.yaml, hash: 'sha256:29164a22a3d8f0bf7d81cdcdc91b7d299d3df9b5c27f091cdba673dc80237748'}
+  - {seq: 3, filename: KR6k0163_003.yaml, hash: 'sha256:e69408ff496654cdc4c644ad29a301de24b04ea3bfa0dd4dedb751106118b33f'}
+  - {seq: 4, filename: KR6k0163_004.yaml, hash: 'sha256:0b2cbe6f0d9bb3bac939af8880ca6b5558463b2133736398ff5202c7af6d710c'}
+  - {seq: 5, filename: KR6k0163_005.yaml, hash: 'sha256:b7a206214d731e8e3dd9dada01bffbdca9c8baaae408bfdbe3791c7c93979b19'}
+  - {seq: 6, filename: KR6k0163_006.yaml, hash: 'sha256:fc7b295a4ae007de3f4529af9f560cbe2e38f4ffe84f357f1af9b3c2b331a5f1'}
+  - {seq: 7, filename: KR6k0163_007.yaml, hash: 'sha256:385ce1b19fcc11c2c38c09d8ea18c9d27fdc1264a181ddcfb5cc2f624329b425'}
+  - {seq: 8, filename: KR6k0163_008.yaml, hash: 'sha256:0ed725c2678f9c96982fa88e304657cd8c594435ed637450924dbdcdb971a763'}
+  - {seq: 9, filename: KR6k0163_009.yaml, hash: 'sha256:8bf6d79468f7b8eec1306def7d67c47aac8135bb8129a6a27b195c22525fff50'}
+  - {seq: 10, filename: KR6k0163_010.yaml, hash: 'sha256:d3cbf696e08011d40a191bce57f491edd78e63ee1b553e1f6f65f9a2ae96b849'}
+  - {seq: 11, filename: KR6k0163_011.yaml, hash: 'sha256:72df21c3fc095c9aec1fe2348704280558effbb07283b3b7f1427c00a30377ff'}
+  - {seq: 12, filename: KR6k0163_012.yaml, hash: 'sha256:fa1a4ef4c46d1dd0c29b1eb1791fdab3722fff9a8d5344a8f591a7130bd482a7'}
+  - {seq: 13, filename: KR6k0163_013.yaml, hash: 'sha256:dccbe555aa8151582aa3b79fd83259064221ebe341e77efb758664eb8b9921d9'}
+  - {seq: 14, filename: KR6k0163_014.yaml, hash: 'sha256:12e219b68c7d5874a450858066e6cc8bca244ef924bd839217f2d888067a27fb'}
+  - {seq: 15, filename: KR6k0163_015.yaml, hash: 'sha256:13ff2c7f33d2fb10fdecb8b190be6af0393fdf984a19a5f7af144190cb3beaf5'}
+  - {seq: 16, filename: KR6k0163_016.yaml, hash: 'sha256:54c6b24178e63e7b5bfb79554e43b4c8f505556c81c4dd396aa92f9cba555d2f'}
+  - {seq: 17, filename: KR6k0163_017.yaml, hash: 'sha256:8a75c94f1df34ff27c2e1a5ca7e2d029887b2cbe5e597ff01132fd45990ce135'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0163_000.markers.yaml, hash: 'sha256:8fb9d2a074cfa49815cb959e98eb405057d819c7368b3ff25d701490bac61d9e'}
+  - {seq: 2, role: markers, filename: assets/KR6k0163_002.markers.yaml, hash: 'sha256:1ed5d87562575ab520ac13db33c989c211fa1c59603f73668f8b33b8e7992f66'}
+  - {seq: 3, role: markers, filename: assets/KR6k0163_003.markers.yaml, hash: 'sha256:aed89830d1d4dc72bd70414f4d55e42e40927eb325ca0debac1064d3cd8d43d9'}
+  - {seq: 4, role: markers, filename: assets/KR6k0163_004.markers.yaml, hash: 'sha256:ea88452639c0d9dc88518fe30366008d1d6b50390efc189f352daf6443ae4380'}
+  - {seq: 5, role: markers, filename: assets/KR6k0163_005.markers.yaml, hash: 'sha256:af1e8c76e0f778e98cd43a86f8d9e67c010d533dad20988946bb2c173e1aef19'}
+  - {seq: 6, role: markers, filename: assets/KR6k0163_006.markers.yaml, hash: 'sha256:9cf54a3f2d94e8091b1e26d24a7bd935888185716962b44744dbd328338b7768'}
+  - {seq: 7, role: markers, filename: assets/KR6k0163_007.markers.yaml, hash: 'sha256:9eca675723d0168613e0a9ed35aa732f9332cc66af301aecdf4d5e3076ec583c'}
+  - {seq: 8, role: markers, filename: assets/KR6k0163_008.markers.yaml, hash: 'sha256:2b54432893ca3becc77a57f8a0f6ad11286c79e45b5356e92eead74d4ad6b574'}
+  - {seq: 9, role: markers, filename: assets/KR6k0163_009.markers.yaml, hash: 'sha256:71dac8dc8d42fc58c94e4be616b74b07317d085d785339a26bf7696840d0f8ef'}
+  - {seq: 10, role: markers, filename: assets/KR6k0163_010.markers.yaml, hash: 'sha256:d1338cad908e1d2bc96c552371da2bb247f12450d5b99474a03ae2755c2d0695'}
+  - {seq: 11, role: markers, filename: assets/KR6k0163_011.markers.yaml, hash: 'sha256:0748058e33f21dfb340d7ff3b41e4c854e6d6f6cf8e0b30a1c8203f7f3ef33b4'}
+  - {seq: 12, role: markers, filename: assets/KR6k0163_012.markers.yaml, hash: 'sha256:36c186fdedcab561fd307ade17d4eb3ae2029c0cd5f498e6c02308bf6299255a'}
+  - {seq: 13, role: markers, filename: assets/KR6k0163_013.markers.yaml, hash: 'sha256:1167ab037b69c6810daac015abbd9421a16969d2d2c6cc87af5fbd303f35818c'}
+  - {seq: 14, role: markers, filename: assets/KR6k0163_014.markers.yaml, hash: 'sha256:cf59e11f35ca4450e7f5b21e2db8dddb9a012e2fa1534700a58ccd3a02d71c1d'}
+  - {seq: 15, role: markers, filename: assets/KR6k0163_015.markers.yaml, hash: 'sha256:810a6fbe5774f646165ca3631ff69ea4161fe69ac6737b1549e42184d8ba038d'}
+  - {seq: 16, role: markers, filename: assets/KR6k0163_016.markers.yaml, hash: 'sha256:91b5cd3b436003116483531b1f7dba0d3457edf3c896d84ec73fb78c7baeac2a'}
+  - {seq: 17, role: markers, filename: assets/KR6k0163_017.markers.yaml, hash: 'sha256:63fefbcea95537b6c8ac968c954fe07adac7146848ae0cc83d75950327fbba97'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0163_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0163_X_000-mulu-2
+    span:
+    - front
+    - 349
+    - 349
+  label: 飾宗義記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0163_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 22174
+  label: 飾宗義記卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0163_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 24920
+  label: 飾宗義記卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0163_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 25925
+  label: 飾宗義記卷第三本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0163_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 25030
+  label: 飾宗義記卷第三末
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0163_X_4a-juan-start
+    span:
+    - body
+    - 0
+    - 25415
+  label: 飾宗義記卷第四本初戒之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0163_X_4b-juan-start
+    span:
+    - body
+    - 0
+    - 32604
+  label: 飾宗義記卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0163_X_5a-juan-start
+    span:
+    - body
+    - 0
+    - 33051
+  label: 飾宗義記卷第五本
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0163_X_5b-juan-start
+    span:
+    - body
+    - 0
+    - 26517
+  label: 飾宗義記卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0163_X_6a-juan-start
+    span:
+    - body
+    - 0
+    - 29930
+  label: 飾宗義記卷第六本
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0163_X_6b-juan-start
+    span:
+    - body
+    - 0
+    - 29144
+  label: 飾宗義記卷第六末
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0163_X_7a-juan-start
+    span:
+    - body
+    - 0
+    - 24568
+  label: 飾宗義記卷第七本
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0163_X_7b-juan-start
+    span:
+    - body
+    - 0
+    - 31675
+  label: 飾宗義記卷第七末
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0163_X_8a-juan-start
+    span:
+    - body
+    - 0
+    - 23474
+  label: 飾宗義記卷第八本
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0163_X_8b-juan-start
+    span:
+    - body
+    - 0
+    - 26271
+  label: 飾宗義記卷第八末
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0163_X_10a-juan-start
+    span:
+    - body
+    - 0
+    - 18285
+  label: 飾宗義記卷第十本
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0163_X_10b-juan-start
+    span:
+    - body
+    - 0
+    - 23897
+  label: 飾宗義記卷第十末
+  type: juan
+  level: 1
+hash: sha256:9de2748edefc13376a210d47d60517d96f183c0fc7aa7bac1ec0bbf3e64f116c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

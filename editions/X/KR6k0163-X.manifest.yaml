@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR6k0163/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0163/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律疏飾宗義記
+  identifiers:
+    krp: KR6k0163
+    cbeta: X42n0733
+    cbeta_old_id: X42n0733
+    authorityid: CA0002811
+    json_key: X0733
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X42/X42n0733.xml
+    old_id: X42n0733
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0163_000-X.yaml, hash: 'sha256:5015e673e30f49b4e59b3763a24bb8253cf99c7bab5b545e18ad08802ef4aee3'}
+  - {seq: 2, filename: KR6k0163_002-X.yaml, hash: 'sha256:20ad3d7ca2358267e82c1707c68c5da57835e74d21809b55c7b912724fa183f0'}
+  - {seq: 3, filename: KR6k0163_003-X.yaml, hash: 'sha256:0efcea75abcf58d569baa2d2d7278ad0e1dc7cd525f3c292c72a89b52ecc7055'}
+  - {seq: 4, filename: KR6k0163_004-X.yaml, hash: 'sha256:7d10746e69028d8e2bab955a14356a92541833b03203d1e663a0bb53f8db9994'}
+  - {seq: 5, filename: KR6k0163_005-X.yaml, hash: 'sha256:69ed74a995c1bfa33752e0ab7dac35eafd371fa993944750babf714debf530a8'}
+  - {seq: 6, filename: KR6k0163_006-X.yaml, hash: 'sha256:327e6ca8814a1c5cecb4ae1952809f00d6b778af94037da3d69ca9b553aa9997'}
+  - {seq: 7, filename: KR6k0163_007-X.yaml, hash: 'sha256:8743509706de07858cbde8748f098d61462fc3adb61cfbbf193b592a8eee9eef'}
+  - {seq: 8, filename: KR6k0163_008-X.yaml, hash: 'sha256:27e0bdae2e66c5f17394eecd3907fc6bd2c8365b29d80f641f5209918f97525e'}
+  - {seq: 9, filename: KR6k0163_009-X.yaml, hash: 'sha256:42070d8a798559adac8ec2faea503914b2d62d3ea595d934fc559b315aa0aeff'}
+  - {seq: 10, filename: KR6k0163_010-X.yaml, hash: 'sha256:59b9594008ebc62f9784390de66e56c5e4268559cb4f01f4b5335c13f56f1fb1'}
+  - {seq: 11, filename: KR6k0163_011-X.yaml, hash: 'sha256:6e0ff0bd34a62fbddf03299fbaae57f11edda304aa4762e4391d309214d90085'}
+  - {seq: 12, filename: KR6k0163_012-X.yaml, hash: 'sha256:e36e3141ce79ede61b843c80a1686bb22380fa00428d6486ffef6ad93587f7dc'}
+  - {seq: 13, filename: KR6k0163_013-X.yaml, hash: 'sha256:1442757cf08b4158dc230bfc1a8340de1f4e5d7694f62a1b057a84d1d38bde01'}
+  - {seq: 14, filename: KR6k0163_014-X.yaml, hash: 'sha256:0786f3c111855c838e6d82ed6f65162e2e2b1bc4ff36ba644890f3ca5774678f'}
+  - {seq: 15, filename: KR6k0163_015-X.yaml, hash: 'sha256:e1529a1df379ca82296b30d2738d79c1aa2e18d46801f920002735dbd88cbe69'}
+  - {seq: 16, filename: KR6k0163_016-X.yaml, hash: 'sha256:ee3ef5a372905477997e11dd50eddd1130cf7ef2057637d4a4b4e51760e92a0f'}
+  - {seq: 17, filename: KR6k0163_017-X.yaml, hash: 'sha256:585926288fb96535c7985bafe71856457b09d2f735544ca9b423c8fceee518e1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0163_000-X.markers.yaml, hash: 'sha256:9b79e68e98efd49a52330a29ad92d7571736f02cc60f89cf07646a6bcc99bdaf'}
+  - {seq: 2, role: markers, filename: assets/KR6k0163_002-X.markers.yaml, hash: 'sha256:27e90ab1f8a51ca927d8450a966d517017a5f3c33e28d1c260dd9c4cd9b703bb'}
+  - {seq: 3, role: markers, filename: assets/KR6k0163_003-X.markers.yaml, hash: 'sha256:bf255e31aa3967a4918e0b682cfadb7af00e723ac935433a4ac0c5ea0ceb4f0d'}
+  - {seq: 4, role: markers, filename: assets/KR6k0163_004-X.markers.yaml, hash: 'sha256:fa4122c440fffc39f2341f1f10ade6c5014b3c33dd8e32078a16e30523f2e8d7'}
+  - {seq: 5, role: markers, filename: assets/KR6k0163_005-X.markers.yaml, hash: 'sha256:374ca08e1d694ced9a904a7a063d0429c9215c40b73fe71b1952a24a52921516'}
+  - {seq: 6, role: markers, filename: assets/KR6k0163_006-X.markers.yaml, hash: 'sha256:071a1c346b2b4cdea8ecc2f897c4e03d76dcde9068682246e44372286a4e3334'}
+  - {seq: 7, role: markers, filename: assets/KR6k0163_007-X.markers.yaml, hash: 'sha256:a10a78e27aff02d197486b659ebc2f707b1b280c933f1dbc4abea57a19ae3eb1'}
+  - {seq: 8, role: markers, filename: assets/KR6k0163_008-X.markers.yaml, hash: 'sha256:b7bba7f3a6727cb3ec2bdc5ca05b43abf0e8bd5587d574af4de785256449df90'}
+  - {seq: 9, role: markers, filename: assets/KR6k0163_009-X.markers.yaml, hash: 'sha256:f6a40d6ec8b1a7a5df0c131c52983d26d343d5ac73fb399c1be1e3c234db18c9'}
+  - {seq: 10, role: markers, filename: assets/KR6k0163_010-X.markers.yaml, hash: 'sha256:a373592ee17f0e6c22a107a1787b8191ab5dc09b2852a1730b75553d9293d406'}
+  - {seq: 11, role: markers, filename: assets/KR6k0163_011-X.markers.yaml, hash: 'sha256:2d316f9afc38e8ac00bf98dcf39908edd61169f37f315f9453ea915c8938b6b4'}
+  - {seq: 12, role: markers, filename: assets/KR6k0163_012-X.markers.yaml, hash: 'sha256:a3d16befae0a187d31735ede3afe2186735d77ebb99a4cb8ce9ca7daa3e4a9f4'}
+  - {seq: 13, role: markers, filename: assets/KR6k0163_013-X.markers.yaml, hash: 'sha256:323142b52dfe9a54ec9c87388bb371d29d5025e86f6e3140047ab5bcb44a5773'}
+  - {seq: 14, role: markers, filename: assets/KR6k0163_014-X.markers.yaml, hash: 'sha256:d10a2c3e0ba5d5ac4e98aa8d02bcf64c73c5c00fdbb2f92c61f5318a38776c03'}
+  - {seq: 15, role: markers, filename: assets/KR6k0163_015-X.markers.yaml, hash: 'sha256:17425fff1463c2c716c6143637c807dfad774d166f4d98ed43d6fb311abc89fe'}
+  - {seq: 16, role: markers, filename: assets/KR6k0163_016-X.markers.yaml, hash: 'sha256:207586960e4a361098f848090b8aa052643f60515f0a5a41598e5c7f22ddedd5'}
+  - {seq: 17, role: markers, filename: assets/KR6k0163_017-X.markers.yaml, hash: 'sha256:995082fbc082e92523564f590f8cbd545128e0cf8d67df2a4874b967d793128d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0163_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0163_X_000-mulu-2
+    span:
+    - front
+    - 349
+    - 349
+  label: 飾宗義記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0163_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 22174
+  label: 飾宗義記卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0163_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 24920
+  label: 飾宗義記卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0163_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 25925
+  label: 飾宗義記卷第三本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0163_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 25030
+  label: 飾宗義記卷第三末
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0163_X_4a-juan-start
+    span:
+    - body
+    - 0
+    - 25415
+  label: 飾宗義記卷第四本初戒之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0163_X_4b-juan-start
+    span:
+    - body
+    - 0
+    - 32604
+  label: 飾宗義記卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0163_X_5a-juan-start
+    span:
+    - body
+    - 0
+    - 33051
+  label: 飾宗義記卷第五本
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0163_X_5b-juan-start
+    span:
+    - body
+    - 0
+    - 26517
+  label: 飾宗義記卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0163_X_6a-juan-start
+    span:
+    - body
+    - 0
+    - 29930
+  label: 飾宗義記卷第六本
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0163_X_6b-juan-start
+    span:
+    - body
+    - 0
+    - 29144
+  label: 飾宗義記卷第六末
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0163_X_7a-juan-start
+    span:
+    - body
+    - 0
+    - 24568
+  label: 飾宗義記卷第七本
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0163_X_7b-juan-start
+    span:
+    - body
+    - 0
+    - 31675
+  label: 飾宗義記卷第七末
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0163_X_8a-juan-start
+    span:
+    - body
+    - 0
+    - 23474
+  label: 飾宗義記卷第八本
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0163_X_8b-juan-start
+    span:
+    - body
+    - 0
+    - 26271
+  label: 飾宗義記卷第八末
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0163_X_10a-juan-start
+    span:
+    - body
+    - 0
+    - 18285
+  label: 飾宗義記卷第十本
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0163_X_10b-juan-start
+    span:
+    - body
+    - 0
+    - 23897
+  label: 飾宗義記卷第十末
+  type: juan
+  level: 1
+hash: sha256:f502cd97c0318590815acb8143092c3a038d22fe1e8dd673ff890f4ceaa2ebc0
